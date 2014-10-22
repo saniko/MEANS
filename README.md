@@ -124,6 +124,14 @@ Grunt is included with various tasks including concat, minifying, less compiling
 
 <br/>
 
+## Nodemon ##
+Monitor for any changes in your node.js application and automatically restart the server - perfect for development<br/>
+[nodemon](https://github.com/remy/nodemon)<br/>
+run npm install -g nodemon<br/>
+in console: nodemon app.js<br/>
+
+<br/>
+
 ## Support for Multiple Layouts ##
 It is typical for a website that has membership to have different Layouts than the public section.  Because of this, we've demonstrated how you can use a public layout for non-members and a private layout for members.
 
